@@ -1,6 +1,10 @@
 package ruiz;
 
+import static org.junit.Assert.assertEquals;
+
 import java.util.Scanner;
+
+import org.junit.Test;
 
 public class RemoveCharacter 
 {
@@ -37,5 +41,11 @@ public class RemoveCharacter
 		}
 		
 		scan.close();
+	}
+	
+	@Test
+	public static void testValue()
+	{
+		assertEquals("String", "Strig");
 	}
 }
