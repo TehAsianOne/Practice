@@ -38,6 +38,34 @@ public class RemoveDuplicateLL
 		list.add("so");
 		list.add("yes");
 		list.add("maybe");
+		list.add("yes");
+		list.add("no");
+		list.add("maybe");
+		list.add("so");
+		list.add("yes");
+		list.add("maybe");
+		list.add("yo");
+		list.add("yo");
+		list.add("yo");
+		list.add("yo");
+		list.add("yes");
+		list.add("no");
+		list.add("maybe");
+		list.add("so");
+		list.add("yes");
+		list.add("maybe");
+		list.add("yes");
+		list.add("no");
+		list.add("maybe");
+		list.add("so");
+		list.add("yes");
+		list.add("maybe");
+		list.add("yes");
+		list.add("no");
+		list.add("maybe");
+		list.add("so");
+		list.add("yes");
+		list.add("maybe");
 		
 		System.out.println(list);
 		
